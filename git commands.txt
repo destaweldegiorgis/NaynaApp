@@ -1,0 +1,13 @@
+
+
+git add .
+git push origin main
+
+
+//================ information commands
+
+git status
+
+git log
+
+git -version
